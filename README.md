@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ramiro
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+Full+Stack+and+Frontend+Dev">
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+Full+Stack+Developer">
 
 <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="300" height="115" />
 
