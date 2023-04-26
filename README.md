@@ -3,9 +3,9 @@
 
 <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="300" height="115" />
 
-- 🔭 Working in a personal project with Express, React and PostgreSQL
+- 🔭 Working as a FrontEnd Freelancer with Vue, Tailwind and Sass
 
-- 💻 React, Redux, NodeJS, Express, Sequelize, PostgreSQL.
+- 💻 React, Vue, NodeJS, Express, MongoDB, PostgreSQL.
 
 - 📘 I'm currently studing Web Development at [Universidad Nacional de la Matanza](https://www.unlam.edu.ar/)
 
