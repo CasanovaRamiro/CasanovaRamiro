@@ -4,9 +4,9 @@
 <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="300" height="115" />
 
 
-- 🔭 Working as a FullStack Freelancer with TypeScript, React & Node
+- 🌎 Working as a FullStack Freelancer with TypeScript, React & Node
   
-- 🔭 Worked as a FrontEnd Freelancer with Vue, Tailwind & Sass
+- 📋 Worked as a FrontEnd Freelancer with Vue, Tailwind & Sass
 
 - 💻 React, Vue, NodeJS, Express, MongoDB, PostgreSQL.
 
